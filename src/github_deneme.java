@@ -6,6 +6,8 @@ public class github_deneme {
         System.out.println("deneme2");
         System.out.println("deneme3 branch");
         System.out.println("deneme4 branch");
+        System.out.println("deneme5 pull");
+        
 
 
 
