@@ -10,6 +10,7 @@ public class github_deneme {
         System.out.println("deneme5 pull");
         System.out.println("deneme6 push ");
         int sayi;
+        String name;
 
         
 
